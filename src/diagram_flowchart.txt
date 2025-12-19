@@ -1,0 +1,40 @@
+===============================
+        FLOWCHART APLIKACJI
+===============================
+
+        [ START ]
+            |
+            v
+[ Użytkownik: przedsiębiorca /
+  freelancer / startup ]
+            |
+            v
+[ Wprowadzenie danych ]
+( koszty, przychody,
+  ceny, wolumen )
+            |
+            v
+[ Kalkulator finansowy ]
+- koszty
+- przychody
+- marża
+            |
+            v
+[ Symulacje ]
+( zmiana cen, kosztów,
+  scenariusze )
+            |
+            v
+[ Analiza opłacalności ]
+( zysk / strata,
+  rentowność )
+            |
+            v
+[ Wsparcie decyzji ]
+( czy pomysł / oferta
+  ma sens? )
+            |
+            v
+         [ KONIEC ]
+
+===============================
